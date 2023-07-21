@@ -147,6 +147,22 @@ nav{
     width: 40px;
     height: 40px;
 }
+@media (max-width:900px){
+    #sobre-mi{
+        display: grid;
+        text-align: center;  
+    }
+    #yo{
+       align-items: center;
+       justify-self: center;
+    }
+    #habilidades{
+        align-items: center;
+       justify-self: center;
+    }
+
+}
+
 /*------servicios--------*/
 .todo{
     position: relative;
