@@ -178,10 +178,17 @@ nav{
     #yo{
        align-items: center;
        justify-self: center;
+       display: grid;
+       width: 70%;
     }
     #habilidades{
         align-items: center;
        justify-self: center;
+    }
+    .cv{
+        
+        align-items: center;
+        justify-self: center;
     }
 
 }
