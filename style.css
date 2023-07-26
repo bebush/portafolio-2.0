@@ -141,7 +141,7 @@ span {
     margin: 15px;
 }
 #habilidades{
-    width: 70%;
+    width: 50%;
     margin: 20px;
     
 }
@@ -193,6 +193,7 @@ span {
     #habilidades{
         align-items: center;
        justify-self: center;
+       width: 70%;
     }
     .cv{
         
