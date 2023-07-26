@@ -152,12 +152,13 @@ span {
 #cont-logo-habil{
     display: flex;
     width: 100%;
-    
     justify-content: space-between;
+    text-align: center;  
 }
 .logos-habil img{
     width: 40px;
     height: 40px;
+    
 }
 .cv{
     background-color: rgb(16, 103, 175);
