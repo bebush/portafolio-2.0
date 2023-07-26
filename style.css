@@ -130,7 +130,7 @@ nav{
 }
 #yo{
     width: 50%;
-    margin: 20px;
+    margin: 15px;
 }
 #habilidades{
     width: 50%;
@@ -147,6 +147,29 @@ nav{
     width: 40px;
     height: 40px;
 }
+.cv{
+    background-color: rgb(16, 103, 175);
+    width: 160px;
+    height: 50px;
+    text-align: center;
+    display: grid;
+    border-radius: 10%;
+    
+}
+.cv a{
+    justify-self: center;
+    text-decoration: none; 
+    color: white;  
+}
+.cv:hover{
+    background-color: rgb(13, 206, 206);
+   
+}
+.cv a:hover{
+    color: white;
+    
+}
+
 @media (max-width:900px){
     #sobre-mi{
         display: grid;
