@@ -191,11 +191,13 @@ span {
        justify-self: center;
        display: grid;
        width: 70%;
+       padding-top: 40px;
     }
     #habilidades{
         align-items: center;
        justify-self: center;
        width: 70%;
+       
     }
     .cv{
         
@@ -265,6 +267,9 @@ span {
         
         
     
+    }
+    .basesr{
+        padding-top: 52px;
     }
   
 }
