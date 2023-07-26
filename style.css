@@ -123,6 +123,17 @@ nav{
 }
 
 /*-----sonbre mi-----*/
+span {
+    display: block;
+    position: relative;
+    justify-content: center;
+    margin: auto;
+    padding-left: 5px;
+}
+.sp1{
+    padding: 0;
+    
+}
 #sobre-mi{
     display: flex;
     justify-content: space-between;
